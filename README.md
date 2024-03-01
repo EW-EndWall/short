@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/EW-EndWall/SHORT">
-    <img src="https://user-images.githubusercontent.com/43109779/240892441-ca51b36a-c92b-4953-9a71-c151f6c6e773.svg" alt="Logo" width="220" height="220">
+    <img src="https://raw.githubusercontent.com/EW-EndWall/SHORT/e0c874cfa5c556bdbc60c985cf97b8a213a90727/assets/dist/img/logo.svg" alt="Logo" width="220" height="220">
   </a>
 
   <h3 align="center">SHORT</h3>
@@ -25,9 +25,7 @@
 
 ![Screen Shot](https://github.com/EW-EndWall/SHORT/assets/43109779/8a658b88-a5d2-4fea-9192-c910ef132a04)
 
-The URL Shortening Application is a tool that turns long web addresses into short and easy-to-share ones. This way, you can share the links you want with less characters on platforms such as social media, email or messaging. Moreover, the application provides you with statistics that show how many times your links were clicked and which countries they were accessed from. This way, you can track your web traffic and better understand your target audience.
-
-The URL Shortening Application is a simple and effective way to optimize your online presence and reach more people with less hassle.
+The URL Shortening Application is a tool that turns long web addresses into short and easy-to-share ones. This way, you can share the links you want with less characters on platforms such as social media, email or messaging.
 
 Warning: The link will be deleted after 1 hour, and it does not keep statistics because it is a test application.
 
@@ -62,4 +60,4 @@ phpmyadmin import short.sql
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/EW-EndWall/SHORT/blob/main/LICENSE.md) for more information.
+Distributed under the Apache-2.0 License. See [LICENSE](https://github.com/EW-EndWall/SHORT/blob/main/LICENSE) for more information.
